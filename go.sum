@@ -853,6 +853,10 @@ github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3 h1:Ylmch
 github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3/go.mod h1:lV6KnqXYD/ayTe7310MHtM3I2q8Z6bBfMAi+bhwPYtI=
 github.com/osmosis-labs/osmosis/osmomath v0.0.1 h1:23X7pPCnyzQHEYCY0YbbVVESq84cGftvacO/Wswd3A0=
 github.com/osmosis-labs/osmosis/osmomath v0.0.1/go.mod h1:IpoXO7lvmfsBFfQzaqovs541hpqtrnM+GJSZDi/TZtc=
+github.com/osmosis-labs/osmosis/osmoutils v0.0.1 h1:iANKdKa6cCgX1NJAldzfedwUPmeaKNrMu/atBCWtGg8=
+github.com/osmosis-labs/osmosis/osmoutils v0.0.1/go.mod h1:T7CCZKYhKWASnv5mRE8u3m0gst3NZ/sU16Brjmv4UPw=
+github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.1 h1:sNBXjJl9q0Gvko+X3vA1OxtDGfgDbO5UgCbXhUNk1UM=
+github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.1/go.mod h1:+My/x1Wsgpv4HBPmM24S4MT+mQe+oIPqAZPHyq4bwlU=
 github.com/osmosis-labs/wasmd v0.29.2-osmo-v13 h1:HvxAks1ctB3nBx1cXqcmfA0g0BKe7Og77OA2j2rxaJk=
 github.com/osmosis-labs/wasmd v0.29.2-osmo-v13/go.mod h1:UlLBU5vuHncwQUM9W8lw+2mEptEMFxxfVWupZ6sXtn4=
 github.com/otiai10/copy v1.2.0/go.mod h1:rrF5dJ5F0t/EWSYODDu4j9/vEeYHMkc8jt0zJChqQWw=
@@ -1067,8 +1071,8 @@ github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO+kdMU+MU=
-github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
-github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
+github.com/stretchr/testify v1.8.2 h1:+h33VjcLVPDHtOdpUCuF+7gSuG3yGIftsP1YvFihtJ8=
+github.com/stretchr/testify v1.8.2/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
 github.com/subosito/gotenv v1.4.1 h1:jyEFiXpy21Wm81FBN71l9VoMMV8H8jG+qIK3GCpY6Qs=
 github.com/subosito/gotenv v1.4.1/go.mod h1:ayKnFf/c6rvx/2iiLrJUk1e6plDbT3edrFNGqEflhK0=
 github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
