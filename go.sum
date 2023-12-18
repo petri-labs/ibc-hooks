@@ -738,8 +738,8 @@ github.com/mattn/go-runewidth v0.0.9/go.mod h1:H031xJmbD/WCDINGzjvQ9THkh0rPKHF+m
 github.com/mattn/go-runewidth v0.0.10 h1:CoZ3S2P7pvtP45xOtBw+/mDL2z0RKI576gSkzRRpdGg=
 github.com/mattn/go-runewidth v0.0.10/go.mod h1:RAqKPSqVFrSLVXbA8x7dzmKdmGzieGRCM46jaSJTDAk=
 github.com/mattn/go-sqlite3 v1.9.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
-github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
-github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+github.com/mattn/go-sqlite3 v1.14.19 h1:fhGleo2h1p8tVChob4I9HpmVFIAkKGpiukdrgQbWfGI=
+github.com/mattn/go-sqlite3 v1.14.19/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
 github.com/mattn/goveralls v0.0.3/go.mod h1:8d1ZMHsd7fW6IRPKQh46F2WRpyib5/X4FOpevwGNQEw=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
 github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 h1:I0XW9+e1XWDxdcEniV4rQAIOPUGDq67JSCiRCgGCZLI=
@@ -853,6 +853,10 @@ github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3 h1:Ylmch
 github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3/go.mod h1:lV6KnqXYD/ayTe7310MHtM3I2q8Z6bBfMAi+bhwPYtI=
 github.com/osmosis-labs/osmosis/osmomath v0.0.1 h1:23X7pPCnyzQHEYCY0YbbVVESq84cGftvacO/Wswd3A0=
 github.com/osmosis-labs/osmosis/osmomath v0.0.1/go.mod h1:IpoXO7lvmfsBFfQzaqovs541hpqtrnM+GJSZDi/TZtc=
+github.com/osmosis-labs/osmosis/osmoutils v0.0.1 h1:iANKdKa6cCgX1NJAldzfedwUPmeaKNrMu/atBCWtGg8=
+github.com/osmosis-labs/osmosis/osmoutils v0.0.1/go.mod h1:T7CCZKYhKWASnv5mRE8u3m0gst3NZ/sU16Brjmv4UPw=
+github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.1 h1:sNBXjJl9q0Gvko+X3vA1OxtDGfgDbO5UgCbXhUNk1UM=
+github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.1/go.mod h1:+My/x1Wsgpv4HBPmM24S4MT+mQe+oIPqAZPHyq4bwlU=
 github.com/osmosis-labs/wasmd v0.29.2-osmo-v13 h1:HvxAks1ctB3nBx1cXqcmfA0g0BKe7Og77OA2j2rxaJk=
 github.com/osmosis-labs/wasmd v0.29.2-osmo-v13/go.mod h1:UlLBU5vuHncwQUM9W8lw+2mEptEMFxxfVWupZ6sXtn4=
 github.com/otiai10/copy v1.2.0/go.mod h1:rrF5dJ5F0t/EWSYODDu4j9/vEeYHMkc8jt0zJChqQWw=
