@@ -21,7 +21,7 @@ require (
 	github.com/osmosis-labs/osmosis/osmoutils v0.0.1
 	github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.1
 	github.com/pkg/errors v0.9.1
-	github.com/rakyll/statik v0.1.7
+	github.com/rakyll/statik v0.1.8
 	github.com/spf13/cast v1.5.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
