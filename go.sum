@@ -522,8 +522,9 @@ github.com/gorilla/handlers v1.5.1 h1:9lRY6j8DEeeBT10CvO9hGW0gmky0BprnvDI5vfhUHH
 github.com/gorilla/handlers v1.5.1/go.mod h1:t8XrUpc4KVXb7HGyJ4/cEnwQiaxrX/hz1Zv/4g96P1Q=
 github.com/gorilla/mux v1.6.2/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
-github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
 github.com/gorilla/websocket v0.0.0-20170926233335-4201258b820c/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
 github.com/gorilla/websocket v1.4.1-0.20190629185528-ae1634f6a989/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
 github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
@@ -853,6 +854,10 @@ github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3 h1:Ylmch
 github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3/go.mod h1:lV6KnqXYD/ayTe7310MHtM3I2q8Z6bBfMAi+bhwPYtI=
 github.com/osmosis-labs/osmosis/osmomath v0.0.1 h1:23X7pPCnyzQHEYCY0YbbVVESq84cGftvacO/Wswd3A0=
 github.com/osmosis-labs/osmosis/osmomath v0.0.1/go.mod h1:IpoXO7lvmfsBFfQzaqovs541hpqtrnM+GJSZDi/TZtc=
+github.com/osmosis-labs/osmosis/osmoutils v0.0.1 h1:iANKdKa6cCgX1NJAldzfedwUPmeaKNrMu/atBCWtGg8=
+github.com/osmosis-labs/osmosis/osmoutils v0.0.1/go.mod h1:T7CCZKYhKWASnv5mRE8u3m0gst3NZ/sU16Brjmv4UPw=
+github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.1 h1:sNBXjJl9q0Gvko+X3vA1OxtDGfgDbO5UgCbXhUNk1UM=
+github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.1/go.mod h1:+My/x1Wsgpv4HBPmM24S4MT+mQe+oIPqAZPHyq4bwlU=
 github.com/osmosis-labs/wasmd v0.29.2-osmo-v13 h1:HvxAks1ctB3nBx1cXqcmfA0g0BKe7Og77OA2j2rxaJk=
 github.com/osmosis-labs/wasmd v0.29.2-osmo-v13/go.mod h1:UlLBU5vuHncwQUM9W8lw+2mEptEMFxxfVWupZ6sXtn4=
 github.com/otiai10/copy v1.2.0/go.mod h1:rrF5dJ5F0t/EWSYODDu4j9/vEeYHMkc8jt0zJChqQWw=
